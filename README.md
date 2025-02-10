@@ -16,5 +16,8 @@ Este es un repositorio hecho para practicar los principales funcionamientos de G
 
 [Git documentation](https://git-scm.com/doc)
 
-### Imagenes
+### Imágenes
 ![GitHub-Logo](/GitHub-Logo.png)
+
+> ### Code examples
+```x=1+1```
