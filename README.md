@@ -8,6 +8,7 @@ Este es un repositorio hecho para practicar los principales funcionamientos de G
 ### - Referencias
 ### - Imagenes
 ### - Code Example
+### - Listas
 
 > ## Referencias
 [Github documentation](https://docs.github.com/en)
@@ -21,3 +22,8 @@ Este es un repositorio hecho para practicar los principales funcionamientos de G
 
 > ### Code examples
 ```x=1+1```
+
+### Listas 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
