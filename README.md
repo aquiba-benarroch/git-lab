@@ -27,3 +27,5 @@ Este es un repositorio hecho para practicar los principales funcionamientos de G
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+### Aquiba Yudah Benarroch Bittan - A01783710
