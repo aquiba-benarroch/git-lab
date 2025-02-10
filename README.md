@@ -15,3 +15,6 @@ Este es un repositorio hecho para practicar los principales funcionamientos de G
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
 [Git documentation](https://git-scm.com/doc)
+
+### Imagenes
+![GitHub-Logo](/GitHub-Logo.png)
