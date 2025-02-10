@@ -20,6 +20,8 @@ Este es un repositorio hecho para practicar los principales funcionamientos de G
 ### Imágenes
 ![GitHub-Logo](/GitHub-Logo.png)
 
+![TecLogo](https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_del_ITESM.svg)
+
 > ### Code examples
 ```x=1+1```
 
