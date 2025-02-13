@@ -5,6 +5,6 @@ b = int(input("Give me the second number:"))
 print(f"Addition: {a+b}")
 
 # Display the subtraction
-print(f"Substraction: {a-b}")
+print(f"Subtraction: {a-b}")
 
 # Display multiplication
